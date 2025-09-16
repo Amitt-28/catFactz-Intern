@@ -47,10 +47,6 @@
 - Component-driven development
 - Clean error handling and feedback loops
 
-## 🧑‍💻 Author
 
-**Name:** *Sumit Singh*  
-**Project Type:** *Internship Assignment*  
-**Submission For:** *Yogotribe*  
 
 
